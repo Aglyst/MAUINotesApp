@@ -6,17 +6,7 @@
 
     <ScrollView>
         <VerticalStackLayout>
-            <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center"
-            x:Name="VSLayout"
-            BackgroundColor="White">
-
-            </VerticalStackLayout>
-
-            <Button Clicked="Button_Clicked1" Text="Add Editor"/>
-            <Button Clicked="Button_Clicked2" Text="Add Image"/>
+            <Button Clicked="Button_Clicked1" Text="Add Note"/>
         </VerticalStackLayout>
     </ScrollView>
     
